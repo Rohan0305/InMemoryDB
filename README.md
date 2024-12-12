@@ -2,11 +2,12 @@
 -----------------------------------
 SETUP:
 
-Go to onlinegdb.com
-Set language to C++ 17
-Copy main.cpp from github repo and paste it into the main.cpp file on onlinegdb
-Create a new file called InMemoryDB.h and copy and paste the InMemoryDB.h code from the github repo
-Create a new file called InMemoryDB.cpp and copy and paste the InMemoryDB.cpp code from the github repo
+Go to onlinegdb.com.
+Set language to C++ 17.
+Copy main.cpp from github repo and paste it into the main.cpp file on onlinegdb.
+Create a new file called InMemoryDB.h and copy and paste the InMemoryDB.h code from the github repo.
+Create a new file called InMemoryDB.cpp and copy and paste the InMemoryDB.cpp code from the github repo.
+
 **IMPORTANT - Make sure the the main.cpp file is selected ** and then click run
 
 IMPROVEMENTS: 
